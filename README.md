@@ -2,6 +2,12 @@
 
 [![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/29392883/212599613-33268435-3a82-4c5a-9468-56e0a46a899e.png)](https://www.credly.com/badges/6c006c8f-7e1a-49c0-87ce-f96219e06699/public_url)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsim-ohtsuru&theme=github)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsim-ohtsuru&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsim-ohtsuru&theme=github)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsim-ohtsuru&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsim-ohtsuru&theme=github&utcOffset=8)
+
 # Languages and Tools
 
 ## Programming Languages
