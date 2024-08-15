@@ -1,6 +1,7 @@
 # AWS Certified Badges
 
-[![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/29392883/212599613-33268435-3a82-4c5a-9468-56e0a46a899e.png)](https://www.credly.com/badges/6c006c8f-7e1a-49c0-87ce-f96219e06699/public_url)
+[![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/29392883/212599613-33268435-3a82-4c5a-9468-56e0a46a899e.png)](https://www.credly.com/badges/6c006c8f-7e1a-49c0-87ce-f96219e06699/public_url)  
+[![aws-cloud-quest-cloud-practitioner](https://github.com/user-attachments/assets/55d84f89-9797-4607-9982-bd1ef0637ec9)](https://www.credly.com/badges/633bcd35-81ef-48ad-be79-f7714686589f/public_url)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsim-ohtsuru&theme=github)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsim-ohtsuru&theme=github)
