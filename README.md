@@ -5,15 +5,15 @@
 
 [![aws-cloud-quest-cloud-practitioner](https://github.com/user-attachments/assets/55d84f89-9797-4607-9982-bd1ef0637ec9)](https://www.credly.com/badges/633bcd35-81ef-48ad-be79-f7714686589f/public_url)
 
+# Certified Badges
+
+![3級ウェブデザイン技能士](https://github.com/user-attachments/assets/f34a28b1-aacb-4362-b5c2-af8191cf0c0e)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsim-ohtsuru&theme=github)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsim-ohtsuru&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsim-ohtsuru&theme=github)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsim-ohtsuru&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsim-ohtsuru&theme=github&utcOffset=8)
-
-# Certified Badges
-
-![3級ウェブデザイン技能士](https://github.com/user-attachments/assets/c18940a7-959e-44b4-82bd-9a7afa170b92)
 
 # Languages and Tools
 
