@@ -4,6 +4,9 @@
 [![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/5f056ef7-8273-4d7e-af34-28438e6e083b)](https://www.credly.com/badges/8e20d362-047f-4f6b-a360-195a96453e52/public_url)
 
 [![aws-cloud-quest-cloud-practitioner](https://github.com/user-attachments/assets/55d84f89-9797-4607-9982-bd1ef0637ec9)](https://www.credly.com/badges/633bcd35-81ef-48ad-be79-f7714686589f/public_url)
+[![aws-cloud-quest-solutions-architect](https://github.com/user-attachments/assets/a5c57675-8e12-42bd-b776-c4e1045fc76b)](https://www.credly.com/badges/3dd37b2d-2877-47e1-99a6-302f093ea755/public_url)
+
+[![aws-partner-technical-accredited](https://github.com/user-attachments/assets/cf743706-82de-453a-9167-f2e582d996dc)](https://www.credly.com/badges/1d1f8e01-a86b-4cca-a340-62b7be952ba3/public_url)
 
 # Certified Badges
 
