@@ -11,6 +11,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsim-ohtsuru&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsim-ohtsuru&theme=github&utcOffset=8)
 
+# Certified Badges
+
+![3級ウェブデザイン技能士](https://github.com/user-attachments/assets/c18940a7-959e-44b4-82bd-9a7afa170b92)
+
 # Languages and Tools
 
 ## Programming Languages
